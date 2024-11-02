@@ -102,7 +102,7 @@ body {
     top: 1.5%;
     left: 2%;
     width: 120px;
-    animation: rotate 5 s linear infinite; /* 2-second rotation, repeats infinitely */
+    animation: rotate 5s linear infinite; /* 2-second rotation, repeats infinitely */
 }
 
 @keyframes rotate {
