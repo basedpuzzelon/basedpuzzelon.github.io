@@ -119,3 +119,23 @@ svg{
     width: 80px;
     height: 80px;
 }
+
+
+.tokenomics{
+  margin-top: 7%;
+  display: block;
+  position: relative;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about{
+  display: block;
+  position: relative;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60%;
+
+}
